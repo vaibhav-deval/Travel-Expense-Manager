@@ -1,0 +1,9 @@
+
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Rounded square in blue (#3b82f6) -->
+  <rect width="64" height="64" rx="8" fill="#3b82f6"/>
+  <!-- Wallet shape: Simplified rectangle with a fold -->
+  <path d="M20 20 H44 V44 H20 V36 H36 V28 H20 Z" fill="white"/>
+  <!-- Airplane: Small icon in the top-right corner -->
+  <path d="M48 16 L52 12 L56 16 L52 20 L48 16 Z" fill="#34d399"/>
+</svg>
